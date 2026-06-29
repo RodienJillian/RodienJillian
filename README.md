@@ -4,7 +4,7 @@
 ---
 
 ## 🌟 About Me  
-- 🎓 Currently in my **4th year of Computer Science**, honing both theory and hands-on skills.  
+- 🎓 **BS Computer Science** graduate, with a strong foundation in theory and hands-on skills.  
 - 🎨 Deeply interested in **UI/UX design** and the art of **visual storytelling through graphics**.  
 - 🎯 Aspiring to become a **frontend developer** who brings creativity and usability together.  
 
